@@ -1,4 +1,4 @@
-                                                                                    
+<pre>                                                                                    
                                         __                                          
   ___     ___   __  __     __       __ /\_\     __          ___   __  __     __     
 /' _ `\  / __`\/\ \/\ \  /'__`\   /'_ `\/\ \  /'__`\      /' _ `\/\ \/\ \  /'_ `\   
@@ -40,3 +40,4 @@ Ele gerenciará tudo para você e seu aplicativo vai abrir com todos os scripts 
 Nota: Isso foi feito por uma criança de 10 anos como um estudo sobre DLLs, então não espere algo muito profissional.
 NÃO ESQUEÇA!
    O projeto é a DLL desnan.dll , o D.T.I.exe é apenas a interface pra mexer 
+   </pre>
